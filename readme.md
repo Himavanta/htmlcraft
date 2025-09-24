@@ -1,7 +1,7 @@
 [简体中文](./readme.zh.md)
 
 # tiny-jssr
-
+ 
 The simplest native Javascript SSR template development idea that takes care of the development experience
 
 - Use template strings and native JS tag functions
