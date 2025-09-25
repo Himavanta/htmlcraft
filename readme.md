@@ -1,6 +1,6 @@
 # htmlcraft
 
-一个极简的 JavaScript 服务端渲染（SSR）框架，提供优雅的开发体验和原生 JavaScript 特性支持。
+一个极简的 JavaScript 服务端渲染（SSR）模板引擎工具，提供优雅的开发体验和原生 JavaScript 特性支持。
 
 ## 🌟 特性
 
@@ -78,7 +78,7 @@ const Header = () =>
 
 ## 🔧 自定义扩展
 
-您可以通过以下方式扩展框架：
+您可以通过以下方式扩展这个模板引擎工具：
 
 - 在 `utils.mjs` 中添加新的工具函数
 - 在 `render.mjs` 中创建可复用组件
